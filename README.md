@@ -1,5 +1,4 @@
-# Rom Patcher JS
-A ROM patcher made in HTML5.
+using https://www.marcrobledo.com/RomPatcher.js/ and https://github.com/tw93/Pake to make a simple rompatcher app
 
 **Features:**
 * Supported formats:
@@ -20,7 +19,7 @@ A ROM patcher made in HTML5.
 
 
 
-## Known sites that use Rom Patcher JS
+## Online Versions
 * [Romhacking.net](https://www.romhacking.net/)
 * [Smash Remix](https://smash64.online/remix/)
 * [Radical Red](https://patch.radicalred.net/)
