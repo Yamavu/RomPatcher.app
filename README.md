@@ -1,4 +1,4 @@
-using https://www.marcrobledo.com/RomPatcher.js/ and https://github.com/tw93/Pake to make a simple rompatcher app
+using [RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) and [Pake](https://github.com/tw93/Pake) to make a simple rompatcher app
 
 **Features:**
 * Supported formats:
